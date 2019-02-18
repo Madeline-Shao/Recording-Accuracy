@@ -1,3 +1,4 @@
+% @author: Madeline Shao
 try
     %% Collecting 2AFC response
     Screen('Preference','SkipSyncTests',1);
